@@ -21,7 +21,7 @@ outer_circle(outer boundary of iris): x coordinate of centroid, y coordinate of 
 Output:
 	localized_img: 280,320 image with only iris area (all other pixal values = 0)
 	
-![image](figs/located_iris.jpg)
+![image](figs/localized_iris.jpg)
 
 IrisNormalization
 Input:
@@ -31,7 +31,7 @@ outer_circle(outer boundary of iris): x coordinate of centroid, y coordinate of 
 Output:
 Normalized_iris 64,512, upper boundary is the inner circle, lower boundary is the outer circle.
 
-![image](figs/normalized_iris.jpg)
+![image](figs/normalised_iris.jpg)
 
 ImageEnhancement
 Input:
