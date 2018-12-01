@@ -31,7 +31,7 @@ outer_circle(outer boundary of iris): x coordinate of centroid, y coordinate of 
 Output:
 Normalized_iris 64,512, upper boundary is the inner circle, lower boundary is the outer circle.
 
-![image](figs/normalised_iris.jpg)
+![image](figs/normalized_iris.jpg)
 
 ImageEnhancement
 Input:
